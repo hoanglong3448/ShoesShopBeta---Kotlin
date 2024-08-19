@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">ShoesShop</string>
+    <string name="Intro">Step into to your <font color="#6033ba">style</font></string>
+    <string name="Intro2">A world of Shoes</string>
+    <string name="introDes1">Browse the latest styles from brands</string>
+    <string name="introDes2">Get personalized recommendation</string>
+    <string name="introDes3">Enjoy fast , free shipping</string>
+    <string name="signInNav">Already have an account? <font color="#6033ba">Sign In</font></string>
+    <string name="MainNav">Lets Get Started</string>
+    <string name="title">title</string>
+    <string name="Greeting">Welcome Back</string>
+    <string name="name">Jamie</string>
+    <string name="Brand">Offical Brand</string>
+    <string name="Seeall">See all</string>
+    <string name="Recommend">Recommendation</string>
+    <string name="wid1">Explorer</string>
+    <string name="wid2">Cart</string>
+    <string name="wid3">Wishlist</string>
+    <string name="wid4">My Order</string>
+    <string name="wid5">Profile</string>
+    <string name="price">$</string>
+    <string name="num">4</string>
+</resources>
